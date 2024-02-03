@@ -27,6 +27,7 @@ Stashes are registered to your db (something to be aware of - I guess)
 ## Dependencies:
 - ox_lib
 - ox_inventory
+- ox_target
 - Renewed-Lib
 
 ## Support:
