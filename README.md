@@ -13,6 +13,12 @@ Thanks to the Renewed team for the awesome export.
 
 Standalone, this should work on any framework aslong as you use ox_inventory.
 
+## Notes:
+
+By default the Renewed-Lib export creates a sell stash, this is available for all to access and not unique to the player. To enable pawnshops to work more consistently and ensure people don't jank your stuff I create a unique sell stash for each player when the target is opened.
+
+Stashes are registered to your db.
+
 ## Dependencies:
 - ox_lib
 - ox_inventory
