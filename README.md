@@ -33,3 +33,8 @@ Stashes are registered to your db (something to be aware of - I guess)
 ## Support:
 
 [Discord/ Support](https://discord.gg/Gnb2S7uAdG)
+
+## Buy Me a Coffee:
+If you enjoy my work feel free to buy me a coffee :)
+
+https://www.buymeacoffee.com/possible
